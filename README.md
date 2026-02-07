@@ -1,5 +1,3 @@
-# duckdbWEBAPI
-实现单机高并发高效分析型数据库
 # DuckDB 并发 Web API 项目
 
 基于 DuckDB 的高性能并发 Web API 项目，支持多节点数据同步和并发查询。
